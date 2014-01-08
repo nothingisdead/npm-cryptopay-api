@@ -6,7 +6,7 @@ Example Usage:
 
 ```javascript
 
-var cryptopay	= require('./cryptopay');
+var cryptopay	= require('cryptopay-api');
 var client		= new cryptopay('api_key'); // Fill in with your API key
 var id			= Math.floor(Math.random() * 10000000);
 
