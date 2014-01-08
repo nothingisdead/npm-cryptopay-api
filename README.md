@@ -1,0 +1,2 @@
+npm-cryptopay-api
+=================
